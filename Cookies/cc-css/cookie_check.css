@@ -1,0 +1,28 @@
+.container-fluid {
+    width: 1200px;
+    margin: 39px auto;
+    background-color: #DCEAF4;
+}
+
+figure {
+    background-color: #fff;
+}
+
+article {
+    padding: 10px;
+}
+
+article img {
+    height: 130px;
+    float: right;
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 200%;
+}
+h2 {
+    font-size: 130%;
+    margin-bottom: 0px;
+}
+
